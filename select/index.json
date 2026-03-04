@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Scared to Be Lonely",
+  "base_artist": "Martin Garrix & Dua Lipa",
+  "createdAt": "2026-03-04T04:13:59.503975Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "J.Fla",
+      "has_synced": true,
+      "path": "select/01_Scared_to_Be_Lonely_J.Fla.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "Grace Grundy",
+      "has_synced": true,
+      "path": "select/02_Scared_to_Be_Lonely_Grace_Grundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "Juxtaposition",
+      "has_synced": false,
+      "path": "select/03_Scared_to_Be_Lonely_Juxtaposition.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/04_Scared_to_Be_Lonely_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/05_Scared_to_Be_Lonely_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scared To Be Lonely",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/06_Scared_To_Be_Lonely_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Scared To Be Lonely",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/07_Scared_To_Be_Lonely_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Scared To Be Lonely",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/08_Scared_To_Be_Lonely_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/09_Scared_to_Be_Lonely_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Scared To Be Lonely",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/10_Scared_To_Be_Lonely_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scared To Be Lonely",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/11_Scared_To_Be_Lonely_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "scared to be lonely",
+      "artist": "dua lipa",
+      "has_synced": true,
+      "path": "select/12_scared_to_be_lonely_dua_lipa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/13_Scared_to_Be_Lonely_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "Dua Lipa & Martin Garrix",
+      "has_synced": true,
+      "path": "select/14_Scared_to_Be_Lonely_Dua_Lipa_&_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Scared To Be Lonely",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/15_Scared_To_Be_Lonely_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "Strange Old Robots",
+      "has_synced": true,
+      "path": "select/16_Scared_to_Be_Lonely_Strange_Old_Robots.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Scared To Be Lonely",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/17_Scared_To_Be_Lonely_VA.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely",
+      "artist": "Twenty One Two",
+      "has_synced": true,
+      "path": "select/18_Scared_to_Be_Lonely_Twenty_One_Two.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Scared To Be Lonely",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/19_Scared_To_Be_Lonely_VA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Scared to Be Lonely",
+      "artist": "Martin Garrix & Dua Lipa",
+      "has_synced": false,
+      "path": "select/pl_01_Scared_to_Be_Lonely_Martin_Garrix_&_Dua_Lipa.txt"
+    }
+  ]
+}
